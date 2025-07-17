@@ -4,7 +4,6 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "300" height = "200"/>
 
 <h3> Welcome, Amigo </h3>
-<img src="https://profile-counter.glitch.me/SriyaR/count.svg" />
 
 ### <img src="https://media.giphy.com/media/aV2yJsgt0itkr122DR/giphy.gif" align="center" width="50"> Something about me...  
 

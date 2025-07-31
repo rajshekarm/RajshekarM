@@ -1,13 +1,18 @@
-<h2>Hi, I'm Rajashekar 👋 <h2>
-<p>
-  My journey started with a love for mathematics in school, which gradually evolved into a passion for programming and building innovative solutions. I'm always excited about turning ideas into real-world tech that   makes a difference. 
+
+<h2 align="center">Hi, I'm Rajashekar 👋</h2>
+
+<p align="center">
+  My journey began with a deep love for mathematics in school, which gradually evolved into a passion for programming and solving real-world problems through technology.
+  <br>
+  I love creating meaningful solutions that scale and make a difference. 🚀
 </p>
-<img src="https://media.giphy.com/media/kZudRfVBh5F0coAbPC/giphy.gif" align="center" width="50"/></h2>
+
+  
 
 
 <img src="Raj.jpg/" width = "500" height = "800"/>
 
-<h3> 😊 </h3>
+### 😄 About Me
 
 
 ```javascript

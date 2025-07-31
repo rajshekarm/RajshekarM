@@ -10,7 +10,7 @@
   
 
 
-<img src="Raj.jpg/" width = "500" height = "800"/>
+<img src="Raj.jpg/" width = "800" height = "1000"/>
 
 ### 😄 About Me
 

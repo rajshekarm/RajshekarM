@@ -3,7 +3,7 @@
 
 <img src="Raj.jpg/" width = "500" height = "800"/>
 
-<h3> Welcome, Amigo </h3>
+<h3> 😊 </h3>
 
 
 ```javascript

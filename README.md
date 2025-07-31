@@ -1,7 +1,7 @@
 <h2> Hi, I'm @Rajashekar <img src="https://media.giphy.com/media/kZudRfVBh5F0coAbPC/giphy.gif" align="center" width="50"/></h2>
 
 
-<img src="./" width = "300" height = "200"/>
+<img src=".Raj.jpg/" width = "300" height = "200"/>
 
 <h3> Welcome, Amigo </h3>
 

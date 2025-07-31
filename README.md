@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Rajashekar 👋</h2>
 
 <p align="center">
-  My journey began with a deep love for mathematics in school, which gradually evolved into a passion for programming and solving real-world problems through technology.
+  My journey started with a love for mathematics in school, which gradually evolved into a passion for programming and building innovative solutions
   <br>
   I love creating meaningful solutions that scale and make a difference. 🚀
 </p>

@@ -5,7 +5,7 @@
 
 <h3> Welcome, Amigo </h3>
 
-### <img src="Raj.jpg" align="center" width="50"> Something about me...  
+### <img src="Raj.jpg" align="center" width="100" height="100"> Something about me...  
 
 ```javascript
 const RajashekarM = {

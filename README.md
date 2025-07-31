@@ -2,7 +2,7 @@
 
 <p align="center">
   My journey started with a love for mathematics in school, which gradually evolved into a passion for programming and building innovative solutions.<br>
-  I love creating meaningful products that scale and make a difference 🚀
+  I'm always excited about turning ideas into real-world tech that makes a difference 🚀
 </p>
 
 <p align="center">

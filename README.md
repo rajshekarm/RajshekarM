@@ -14,15 +14,17 @@
 ### 😄 About Me
 
 ```javascript
-const RajashekarM = {
-  code: ["Python", "DotNet", "TypeScript", "C++"],
-  tools: ["Angular", "React", "ASP.NET", "Flask", "Docker"],
-  interests: [
-    "High Performance Computing",
-    "Cloud",
-    "Observability",
-    "Microservices",
-    "Databases",
-    "Deep Learning"
-  ]
-}
+const Raj = {
+  name: 'Rajashekar Mudigonda',
+  current: 'Exploring GenAI & Autonomous DevOps',
+  interest: ['Full Stack Dev', 'AI/ML'],
+  tech: {
+    Backend:  ['Sprig boot', 'dotnet core' 'FastAPI', 'Node.js'],
+    Frontend: ['React', 'Next.js', 'Tailwind'],
+    Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
+    DB:       ['PostgreSQL', 'MongoDB', 'Redis'],
+    Tools:    ['Vscode', 'Visual Studio' 'IntelliJ Idea', 'Prometheus', 'GitHub Actions', 'RabbitMQ'],
+  },
+  certs: ['Azure AI-900', 'AZ-900', 'SC-900', 'GitHub Foundations'],
+  funFact: "npx rajashekar — my terminal biz card ✨",
+};

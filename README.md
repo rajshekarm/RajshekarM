@@ -16,7 +16,7 @@
 ```javascript
 const Raj = {
   name: 'Rajashekar Mudigonda',
-  current: 'Exploring GenAI & Autonomous DevOps',
+  current: 'Exploring GenAI, Autonomous Robotics, Software Engineering',
   interest: ['Full Stack Dev', 'AI/ML'],
   tech: {
     Backend:  ['Sprig boot', 'dotnet core' 'FastAPI', 'Node.js'],

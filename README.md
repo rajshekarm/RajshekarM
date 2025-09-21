@@ -5,9 +5,7 @@
   I'm always excited about turning ideas into real-world tech that makes a difference 🚀
 </p>
 
-<p align="center">
-  <img src="Raj.jpg" width="350" height="auto" alt="Rajashekar Mudigonda photo" />
-</p>
+
 
 ---
 
